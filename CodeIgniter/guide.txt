@@ -1,0 +1,7 @@
+https://codeigniter.org.tw/userguide3/tutorial/news_section.html
+
+http://localhost/phpmyadmin/sql.php?server=1&db=news&table=news&pos=0
+
+https://ithelp.ithome.com.tw/articles/10103302
+
+https://ithelp.ithome.com.tw/articles/10120582
